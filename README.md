@@ -10,6 +10,12 @@
 
 **Προσοχή!!!** Μετά από κάθε τροποποίηση που θα κάνετε στο αποθετήριό σας στα πλαίσια των παραδοτέων, ίσως χρειαστεί να περιμένετε κάποιο χρονικό διάστημα (ακόμα και ορισμένων λεπτών) μετά από κάθε commit μέχρι αυτές οι αλλαγές να εφαρμοστούν στο github page.
 
+
+## Βαθμολόγηση
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 1](https://github.com/ioniodi/D3js-US-educational-attainment/issues/3): μέχρι 4. 
+- Σημαντικές αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 2](https://github.com/ioniodi/D3js-US-educational-attainment/issues/2): μέχρι 8.
+- [Aξιολόγηση από ομότιμους](https://github.com/ioniodi/D3js-US-educational-attainment/issues/1): 9-10.
+
 ## Χρήσιμοι σύνδεσμοι
 
 * [Data Driven Documents](https://d3js.org/)
