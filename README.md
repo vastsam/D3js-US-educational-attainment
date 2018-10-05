@@ -12,9 +12,10 @@
 
 
 ## Βαθμολόγηση
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 1](https://github.com/ioniodi/D3js-US-educational-attainment/issues/3): μέχρι +4 μονάδες. 
-- Σημαντικές αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 2](https://github.com/ioniodi/D3js-US-educational-attainment/issues/2): μέχρι +4 μονάδες.
-- [Aξιολόγηση από ομότιμους](https://github.com/ioniodi/D3js-US-educational-attainment/issues/1): μέχρι +2 μονάδες.
+Λαμβάνοντας υπόψη το [ποσοστό της εργασίας στον τελικό βαθμό](https://github.com/courses-ionio/projects/blob/master/dev/index.md), με άριστα το 5, τα παραδοτέα βαθμολογούνται ως εξής:
+- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 1](https://github.com/ioniodi/D3js-US-educational-attainment/issues/3): μέχρι +2 μονάδες. 
+- Σημαντικές αλλαγές στο παιχνίδι όπως περιγράφονται στο [Παραδοτέο 2](https://github.com/ioniodi/D3js-US-educational-attainment/issues/2): μέχρι +2 μονάδες.
+- [Aξιολόγηση από ομότιμους](https://github.com/ioniodi/D3js-US-educational-attainment/issues/1): μέχρι +1 μονάδα.
 
 ## Χρήσιμοι σύνδεσμοι
 
